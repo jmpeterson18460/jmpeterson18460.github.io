@@ -5,6 +5,8 @@ body {
   text-align: center;
 }
 h1 {
+  width: 100px;
+  margin-right: 40px;
   border-bottom: 1px solid black;
 }
 h4 {
