@@ -3,6 +3,7 @@ body {
   background-size: cover;
   font-family: Georgia, serif;
   text-align: center;
+  width: 50%;
 }
 h1 {
   margin-left: 10px;
