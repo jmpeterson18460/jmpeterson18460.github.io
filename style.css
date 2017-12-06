@@ -1,4 +1,4 @@
-body {
+1ody {
   background-image: url("http://www.dreamscraper.com/wp-content/uploads/2014/06/bg.jpg");
   background-size: cover;
   font-family: Georgia, serif;
@@ -6,7 +6,7 @@ body {
 }
 h1 {
   width: 100px;
-  margin-right: 40px;
+  margin-right: 10px;
   border-bottom: 1px solid black;
 }
 h4 {
