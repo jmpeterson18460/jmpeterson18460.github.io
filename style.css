@@ -4,6 +4,10 @@ body {
   font-family: Georgia, serif;
   text-align: center;
 }
+h1 {
+  float: left;
+  border-bottom: 10px solid black;
+}
 h4 {
   color: red;
 }
