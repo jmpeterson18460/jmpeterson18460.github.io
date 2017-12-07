@@ -4,13 +4,23 @@ body {
   font-family: Georgia, serif;
   text-align: center;
 }
-.algstnd {
+h1 {
   display: inline-block;
   padding-right: 500px;
   padding-bottom: 10px;
   border-bottom: 1px solid black;
   margin-bottom: 10px;
 }
-h4 {
+.algstnd {
+  display: inline-block;
+  padding-right: 500px;
+  margin-bottom: 10px;
   color: red;
+}
+
+h4 {
+  display: inline-block;
+  padding-right: 500px;
+  font-style: italic;
+  margin-bottom: 15px;
 }
