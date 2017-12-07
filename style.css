@@ -12,8 +12,13 @@ h1 {
   margin-bottom: 10px;
 }
 .algstnd {
-  padding-right: 500px;
-  margin-bottom: 10px;
+  padding-right: 600px;
+  margin-bottom: 1px;
+}
+
+.algstnd1 {
+  padding-right:400px;
+  margin-bottom: 1px;
 }
 
 h4 {
