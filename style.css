@@ -25,6 +25,7 @@ h1 {
 
 .algstnd2 {
   display: flex;
+  justify-content: center;
   font-style: italic;
   margin-bottom: 15px;
 }
