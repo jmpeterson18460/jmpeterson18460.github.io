@@ -24,10 +24,9 @@ h1 {
 }
 
 .algstnd2 {
-  flex: 0 0 auto;
-  display: inline-block;
+  display: flex;
   justify-content: center;
   font-style: italic;
-  margin: 5px;
+  margin: 10px;
   margin-bottom: 15px;
 }
