@@ -24,7 +24,7 @@ h1 {
 }
 
 .algstnd2 {
-  display: inline;
+  display: flex;
   padding-right: 0px;
   font-style: italic;
   margin-bottom: 15px;
