@@ -26,6 +26,7 @@ h1 {
 .algstnd2 {
   display: flex;
   justify-content: center;
+  font-family: "Times New Roman", Times;
   font-weight: bold;
   font-style: italic;
   margin: 10px;
