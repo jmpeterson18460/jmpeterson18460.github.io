@@ -26,9 +26,8 @@ h1 {
 .algstnd2 {
   display: flex;
   justify-content: center;
-  font-family: "Chalkboard", Times;
+  font-family: "Arial", Helvetica;
   font-size: 22px;
-  font-weight: bold;
   font-style: italic;
   margin: 10px;
   margin-bottom: 15px;
