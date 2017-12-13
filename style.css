@@ -14,7 +14,8 @@ h1 {
 
 h2 {
   display: inline-block;
-  font-family: "Times New Roman", Helvetica;
+  font-family: "Arial", Helvetica;
+  font-weight: normal;
   padding-right: 475px;
 }
 .algstnd {
