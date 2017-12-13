@@ -12,7 +12,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-h2 {
+.prof {
   display: inline-block;
   font-family: "Arial", Helvetica;
   font-weight: normal;
@@ -20,7 +20,7 @@ h2 {
   padding-right: 435px;
 }
 
-h3 {
+.altheader {
   padding-right: 465px;
   display: inline;
   border-bottom: 1px solid black;
