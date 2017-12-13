@@ -22,7 +22,7 @@ h2 {
 
 h3 {
   padding-right: 465px;
-  vertical-align: top;
+  display: flex;
   border-bottom: 1px solid black;
 }
 .algstnd {
