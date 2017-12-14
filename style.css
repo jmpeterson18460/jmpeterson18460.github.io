@@ -54,5 +54,6 @@ u1 {
 }
 
 .title {
-  display: flex;
+  display: inline;
+  padding-right: 450px;
 }
