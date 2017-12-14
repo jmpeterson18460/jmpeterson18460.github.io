@@ -63,5 +63,5 @@ u1 {
 }
 
 u1.other {
-  display: inline;
+  display: flex;
 }
