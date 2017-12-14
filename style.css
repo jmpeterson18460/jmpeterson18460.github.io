@@ -62,7 +62,7 @@ u1 {
   padding-right: 122px;
 }
 
-.other {
+u1.other {
   list-style-type: disc;
-  padding-left: 500px;
+  justify-content: center;
 }
