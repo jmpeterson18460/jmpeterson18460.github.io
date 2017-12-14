@@ -52,3 +52,7 @@ u1 {
   text-align: left;
   padding-right: 122px;
 }
+
+.title {
+  display: inline;
+}
