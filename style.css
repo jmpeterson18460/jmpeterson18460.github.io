@@ -25,6 +25,12 @@ h3 {
   border-bottom: 1px solid black;
 }
 
+h3.h3style {
+  padding-right: 500px;
+  display inline;
+  border-bottom: 1px solid black;
+}
+
 h4 {
   padding-right: 370px;
 }
