@@ -68,6 +68,12 @@ h4 {
   justify-content: center;
 }
 
+.title1 {
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+}
+
 u1 {
   list-style-type: none;
   text-align: left;
