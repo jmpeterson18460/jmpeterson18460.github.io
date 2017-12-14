@@ -51,6 +51,11 @@ h4 {
   margin-bottom: 15px;
 }
 
+.other {
+  display: flex;
+  justify-content: center;
+}
+
 .title {
   display: flex;
   justify-content: center;
@@ -58,10 +63,10 @@ h4 {
 
 u1 {
   list-style-type: none;
+  text-align: left;
   padding-right: 122px;
 }
 
-u1.other {
+u1.other1 {
   list-style-type: disc;
-  display: inline;
 }
