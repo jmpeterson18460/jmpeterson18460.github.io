@@ -24,6 +24,10 @@ h3 {
   display: inline;
   border-bottom: 1px solid black;
 }
+
+h4 {
+  padding-right: 450px;
+}
 .algstnd {
   padding-right: 600px;
   height: 5px;
