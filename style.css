@@ -62,7 +62,6 @@ u1 {
   padding-right: 122px;
 }
 
-u1.other {
+.other {
   list-style-type: disc;
-  text-align: center;
 }
