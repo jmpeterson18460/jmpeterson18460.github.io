@@ -64,5 +64,6 @@ u1 {
 
 u1.other {
   list-style-type: disc;
+  font-style: italic;
   justify-content: center;
 }
