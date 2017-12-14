@@ -61,3 +61,7 @@ u1 {
   text-align: left;
   padding-right: 122px;
 }
+
+u1.other {
+  padding-right: 200px;
+}
