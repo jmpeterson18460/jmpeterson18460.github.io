@@ -100,3 +100,8 @@ u1.other2 {
   padding-left: 175px;
   margin-bottom: 15px;
 }
+
+u1.other3 {
+  list-style-type: disc;
+  padding-left: 100px;
+}
