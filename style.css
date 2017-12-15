@@ -31,6 +31,12 @@ h3.h3style {
   border-bottom: 1px solid black;
 }
 
+h3.otherh3 {
+  padding-right 450px;
+  display: inline;
+  border-bottom: 1px solid black;
+}
+
 h4 {
   padding-right: 370px;
 }
