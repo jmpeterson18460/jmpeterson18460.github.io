@@ -88,3 +88,9 @@ u1.other1 {
   padding-left: 70px;
   margin-bottom: 15px;
 }
+
+u1.other2 {
+  list-style-type: disc;
+  padding-left: 100px;
+  margin-bottom: 15px;
+}
